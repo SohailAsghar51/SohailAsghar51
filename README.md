@@ -5,10 +5,10 @@
 
 - 🌱 I’m currently learning **React, Gsap, nodeJs**
 
-- 📫 How to reach me **sohailkundi6651@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  **sohailkundi6651@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
